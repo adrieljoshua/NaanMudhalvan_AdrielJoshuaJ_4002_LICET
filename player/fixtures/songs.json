@@ -1,0 +1,32 @@
+[
+  {
+    "model": "player.song",
+    "pk": 1,
+    "fields": {
+      "title": "Kingdom",
+      "artist": "Downstait",
+      "album": "Kingdom ℗ 2016 Downstait",
+      "song_file": "music/Kingdom.mp3"
+    }
+  },
+  {
+    "model": "player.song",
+    "pk": 2,
+    "fields": {
+      "title": "Perfect",
+      "artist": "Ed Sheeran",
+      "album": "Divide ℗ 2017",
+      "song_file": "music/Perfect.mp3"
+    }
+  },
+  {
+    "model": "player.song",
+    "pk": 3,
+    "fields": {
+      "title": "Wake Me Up",
+      "artist": "Avicii",
+      "album": "True Bonus Edition ℗ 2013",
+      "song_file": "music/WakeMeUp.mp3"
+    }
+  }
+]
