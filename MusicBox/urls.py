@@ -1,5 +1,5 @@
 """
-URL configuration for VibeShift project.
+URL configuration for MusicBox project.
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/5.0/topics/http/urls/
@@ -18,7 +18,7 @@ Including another URLconf
 from django.urls import path, include
 
 from django.conf.urls.static import static
-from VibeShift import settings
+from MusicBox import settings
 
 urlpatterns = [
   path('', include('player.urls')),
