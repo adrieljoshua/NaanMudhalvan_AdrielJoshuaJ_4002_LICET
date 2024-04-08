@@ -1,6 +1,6 @@
 ## MusicBox
 
-MusicBox is a web application which can be used to play music.
+MusicBox - A online web music player built using HTML, CSS, Javascript and Django
 
 ## Tech Stack
 - HTML, CSS, Javascript
