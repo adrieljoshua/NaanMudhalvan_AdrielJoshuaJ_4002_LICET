@@ -1,24 +1,16 @@
-## VibeShift
+## MusicBox
 
-VibeShift is a web application which can be used to play music.
-
-## About
-
-VibeShift is a
-- Web application
-- Music player
-- Developed using Django
-- Search for songs
+MusicBox is a web application which can be used to play music.
 
 ## Tech Stack
-
+- HTML, CSS, Javascript
 - Django
 
 ## Installation
 
 1. Clone the repository
 2. Install the requirements
-3. Run the server
+3. Run the server (python manage.py runserver)
 
 ## Usage
 
