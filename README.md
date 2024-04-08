@@ -1,25 +1,17 @@
 ## MusicBox
 
-MusicBox is a web application which can be used to play music.
-
-## About
-
-MusicBox is a
-
--   Web application
--   Music player
--   Developed using Django
--   Search for songs
+MusicBox - A online web music player built using HTML, CSS, Javascript and Django
 
 ## Tech Stack
 
+-   HTML, CSS, Javascript
 -   Django
 
 ## Installation
 
 1. Clone the repository
 2. Install the requirements
-3. Run the server
+3. Run the server (python manage.py runserver)
 
 ## Usage
 
